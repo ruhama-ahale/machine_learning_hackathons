@@ -24,7 +24,6 @@ pip-wheel-metadata/
 
 # Data files
 *.xlsx
-*.csv
 share/python-wheels/
 *.egg-info/
 .installed.cfg
